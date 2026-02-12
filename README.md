@@ -46,17 +46,6 @@ A personal portfolio showcasing my skills and projects in an interactive interfa
 ### [Next Word Prediction (ML)](#)  
 An ML model using **LSTM & N-gram techniques** to predict the next word in text sequences.
 
----
-
-## 📬 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/sai-venkata-greeshma-dama-065505215) | [GitHub](https://github.com/GreeshmaDama) | Email: greeshmadama@gmail.com
-
-
-### [Next Word Prediction (ML)](#)  
-An ML model using **LSTM & N-gram techniques** to predict the next word in text sequences.
-
-### [Pix2Pix & CR-GAN Model](#)  
-Synthetic image generation and labeling for **BRVO disease detection**.
 
 ---
 
