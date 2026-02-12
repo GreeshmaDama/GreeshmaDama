@@ -40,7 +40,7 @@ Spring | Hibernate | Node.js | Flask | React
 
 ## 💡 Featured Projects
 
-### [Training CNN using various Computational Devices(ML)]  
+### [Training CNN using various Computational Devices(ML)](#) 
 A personal portfolio showcasing my skills and projects in an interactive interface.
 
 ### [Next Word Prediction (ML)](#)  
