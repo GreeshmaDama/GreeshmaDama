@@ -40,49 +40,6 @@ Spring | Hibernate | Node.js | Flask | React
 
 ## 💡 Featured Projects
 
-# 🌟 Hi, I'm Sai Venkata Greeshma Dama! 👋
-
-I'm a **Software Developer** and **Associate Engineer** with 3 years of experience, passionate about **AI, Machine Learning, and Web Development**.  
-Currently pursuing a **Double Masters** to level up my expertise in **AI & Software Development**.
-
----
-
-## 🧠 What I Do
-- Build **scalable web applications** using Python, Java, and modern frameworks.  
-- Explore **AI & ML models**, including Generative AI and Deep Learning.  
-- Apply **data-driven solutions** to real-world problems.  
-
----
-
-## 📚 Currently Learning
-- Advanced **Deep Learning** and **Computer Vision**  
-- **Generative & Agentic AI** applications  
-- **Full-stack development** with React & Flask  
-
----
-
-## 🤝 Open to Collaborate On
-- AI/ML Projects and Research  
-- Web Development Projects  
-- Data Science & Visualization  
-
----
-
-## 🚀 Tech Stack
-
-**Languages & Tools:**  
-Python | Java | JavaScript | TypeScript | SQL | Git | Docker | HTML | CSS  
-
-**Python Libraries:**  
-TensorFlow | Keras | scikit-learn | Pandas | NumPy | Matplotlib | Seaborn  
-
-**Frameworks & Platforms:**  
-Spring Boot | Hibernate | Node.js | Flask | React  
-
----
-
-## 💡 Featured Projects
-
 ### [Training CNN using various Computational Devices(ML)]  
 A personal portfolio showcasing my skills and projects in an interactive interface.
 
